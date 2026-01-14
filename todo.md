@@ -1,0 +1,3 @@
+- [ ] come up w/ more effective approach for scaling training turns
+- [ ] reduce reliance on external ground-truth verifiers to provide reward signals during training
+- [ ] check for model collapse
