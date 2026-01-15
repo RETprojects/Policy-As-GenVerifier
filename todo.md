@@ -1,3 +1,6 @@
-- [ ] come up w/ more effective approach for scaling training turns
+- [ ] come up w/ more effective approach for scaling # of training and inference turns
 - [ ] reduce reliance on external ground-truth verifiers to provide reward signals during training
 - [ ] check for model collapse
+- [ ] investigate scalability of PAG to larger models (e.g., 32B/70B parameters)
+- [ ] integration with advanced reasoning techniques, such as long chain-of-thought
+- [ ] RL algorithms for multi-turn training besides PPO (GRPO, DAPO, VAPO; REINFORCE was unstable)
