@@ -1,4 +1,4 @@
-- [ ] come up w/ more effective approach for scaling # of training and inference turns
+- [ ] come up w/ more effective approach for scaling # of training and inference turns (diminishing returns)
 - [ ] reduce reliance on external ground-truth verifiers to provide reward signals during training
 - [ ] check for model collapse
 - [ ] investigate scalability of PAG to larger models (e.g., 32B/70B parameters)
